@@ -1,0 +1,2 @@
+# angular_component_playground
+learning angular components
