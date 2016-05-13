@@ -1,0 +1,17 @@
+{
+  "name": "lib",
+  "homepage": "https://github.com/mikeulvila/angular_component_playground",
+  "authors": [
+    "Mike Ulvila <mikeulvila@me.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
